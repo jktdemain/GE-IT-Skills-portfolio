@@ -36,10 +36,12 @@ The infographic was developed to present information in a concise and visually e
 
 ### Prototype
 [View Prototype Here] https://canva.link/umuws7jrrodulcf
+
 The prototype was designed with usability and user experience as the main priorities. I incorporated a clean interface, intuitive navigation, and consistent design elements to create a functional and user-friendly experience.
 
 ### Self Introduction Video
 [Self Introduction Video] https://drive.google.com/drive/folders/1n5kXro5ETxWRNQe8nPuAY73VtOgNu7XT?usp=drive_link
+
 This self-introduction video was created to showcase my background, skills, and interests in a professional yet engaging way. I used clear visuals, organized content, and smooth transitions to effectively communicate my personal and professional identity.
 
 ## Contact
