@@ -44,6 +44,17 @@ The prototype was designed with usability and user experience as the main priori
 
 This self-introduction video was created to showcase my background, skills, and interests in a professional yet engaging way. I used clear visuals, organized content, and smooth transitions to effectively communicate my personal and professional identity.
 
+## AI Explorer
+
+### Prompt Engineering (Text & Image Generation)
+https://github.com/jktdemain/GE_IT_SKILLS_Prompt_Engineering/blob/main/README.md
+
+### AI Study Tools & Platforms (Content Critique)
+https://github.com/jktdemain/GE-IT-SKILLS---AI-Study-Tools-Platforms
+
+### AI for Research & Data Analysis (Visual Reports)
+https://github.com/jktdemain/GE-IT-SKILLS---AI-for-Research-Data-Analysis
+
 ## Contact
 
 Email: jktdemain@addu.edu.ph
